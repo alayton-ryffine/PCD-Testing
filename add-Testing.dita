@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []>
 <concept id="addTesting"> 
-Use PCDs to practice add methods
+  <title>Use PCDs to practice add methods<title>
+  <conbody>
  <a>  
    <c/>
    <d>
@@ -10,5 +11,6 @@ Use PCDs to practice add methods
    <e>
      <c/>
    </e>
- </a>  
-</concept>
+ </a> 
+   </conbody> 
+ </concept>
