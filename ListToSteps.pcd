@@ -1,4 +1,4 @@
 Turn a list into steps
-  at ol
-  #  ditaListToSteps
-  addLast TEST
+  at steps-informal
+    ditaListToSteps
+  # addLast TEST
