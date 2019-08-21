@@ -2,10 +2,16 @@
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []>
 <concept id="addTesting">   
 <title>Client-Side Configuration</title>
-  <taskbody>
-    <steps-informal>
-      <p>Within the iOS Settings, tap the mPOS application to
-    access the application settings. Then do some other shit. Whatever you like really.</p>
-    </steps-informal>
-  </taskbody>
+<taskbody>
+        <steps-informal>
+            <ol>
+                <li>The cashier opens the POS application at the register and enters
+                    his/her Employee ID and password to log in to the terminal.</li>
+                <li>As customers bring their items to the register, the cashier
+                    applies the customer to the transaction (if applicable), and begins
+                    scanning or entering the item identifiers (UPC) into the POS
+                    screen.</li>
+            </ol>
+        </steps-informal>
+    </taskbody>
 </concept>
