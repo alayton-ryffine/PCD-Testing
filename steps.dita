@@ -1,7 +1,11 @@
-  <title>Client-Side Configuration</title>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd" []>
+<concept id="addTesting">   
+<title>Client-Side Configuration</title>
   <taskbody>
     <steps-informal>
       <p>Within the iOS Settings, tap the mPOS application to
-    access the application settings.</p>
+    access the application settings. Then do some other shit. Whatever you like really.</p>
     </steps-informal>
   </taskbody>
+</concept>
