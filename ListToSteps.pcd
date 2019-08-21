@@ -1,6 +1,6 @@
 Turn a list into steps
-#  at steps-informal
-  at ol
-  ditaListToSteps
-  replaceWithBlank steps-informal
+  splitAfter steps-informal
+#  at ol
+#  ditaListToSteps
+#  replaceWithBlank steps-informal
 # addLast TEST
