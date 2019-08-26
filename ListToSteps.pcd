@@ -1,5 +1,4 @@
 Turn a list into steps
-  at steps-informal
   breakoutchild ol
 # at ol
 # ditaListToSteps
