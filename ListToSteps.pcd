@@ -1,6 +1,6 @@
 Turn a list into steps
 # at steps-informal
-  breakOutChild ol steps-informal
+  unwrap steps-informal
 # at ol
 # ditaListToSteps
 # replaceWithBlank steps-informal
