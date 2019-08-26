@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd" []>
+<task id="stepsdita">   
+<title>Client-Side Configuration</title>
+<taskbody>
+        <step>
+        <cmd>To ensure the module is added, select
+          <uicontrol>Administration &gt; Organization &gt; Roles &amp;
+        Permissions</uicontrol>.
+        </cmd>
+        <cmd>Select the role from step 2 and click the
+          <uicontrol>Business Manager Modules</uicontrol> tab.
+        </cmd>
+      </step>
+    </taskbody>
+</task>
