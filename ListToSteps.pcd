@@ -1,7 +1,8 @@
 Turn a list into steps
-# at steps-informal
+
+First get rid of steps-informal node
   unwrap steps-informal
-# at ol
-# ditaListToSteps
-# replaceWithBlank steps-informal
-# addLast TEST
+  
+Then convert ol to steps
+  at ol
+  ditaListToSteps
